@@ -1,0 +1,5 @@
+set(MUTATOR_SOURCES
+    ${CMAKE_CURRENT_SOURCE_DIR}/bamutator.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/bamutator.h
+	PARENT_SCOPE
+)

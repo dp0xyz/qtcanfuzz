@@ -1,0 +1,5 @@
+set(FUZZER_SOURCES
+    ${CMAKE_CURRENT_SOURCE_DIR}/fuzzerutil.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/fuzzerutil.h
+	PARENT_SCOPE
+)

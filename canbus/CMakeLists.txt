@@ -1,0 +1,7 @@
+set(CANBUS_SOURCES
+    ${CMAKE_CURRENT_SOURCE_DIR}/canbusutil.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/canbusutil.h
+	${CMAKE_CURRENT_SOURCE_DIR}/cansample.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/cansample.h
+	PARENT_SCOPE
+)
