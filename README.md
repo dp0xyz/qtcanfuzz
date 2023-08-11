@@ -14,8 +14,8 @@ Qt6
 qtbase5-dev
 
 # Compile
+```sh
 cmake -S . -B build
-
 cd build
-
 make
+```
