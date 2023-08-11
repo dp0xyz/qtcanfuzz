@@ -2,6 +2,8 @@ Can Fuzzing Tool
 
 Using the qt framework
 
+Using centipede mutator
+
 # Environmont
 Ubuntu 20.04
 
